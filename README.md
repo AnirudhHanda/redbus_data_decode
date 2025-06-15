@@ -3,12 +3,12 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center">
+      <td align="center" width="50%">
         <img src="./assets/hackathon-banner2.png" alt="Hackathon Banner" width="400"/>
         <br/>
         <strong>Redbus Data Decode Hackathon 2025</strong>
       </td>
-      <td align="center">
+      <td align="center" width="50%">
         <img src="./assets/team-avatar.png" alt="Bada Data Wizards Team" width="400"/>
         <br/>
         <strong>Bada Data Wizards</strong>
@@ -36,8 +36,8 @@ The goal of this project is to **predict bus seat demand** at a **route level**,
 ```
 redbus-demand-forecast/
 ├── assets/                 # Images and media files
-│   ├── hackathon-banner.png
-│   └── team-avatar.jpg
+│   ├── hackathon-banner2.png
+│   └── team-avatar.png
 ├── data/                    # Raw datasets (ignored in Git)
 ├── notebooks/              # Jupyter notebooks for EDA and prototyping
 ├── src/                    # Source code (modular pipeline)
@@ -136,13 +136,13 @@ We combine traditional transactional forecasting with **region-aware modeling** 
 
 ## Team Members
 
-<!-- Add your team members here -->
 | Name | Role | Contact |
 |------|------|---------|
-| Anirudh Handa | Big Data & Model Architect | [GitHub/LinkedIn] |
-| [Team Member 2] | [Role] | [Contact] |
-| [Team Member 3] | [Role] | [Contact] |
-| [Team Member 4] | [Role] | [Contact] |
+| Debangshu Acharyya | [Role] | https://github.com/LyadhRaj |
+| Aryan Nagpal | [Role] | https://github.com/Aryan659123 |
+| Tamanna Chugh | [Role] | https://github.com/t-chugh |
+| Anirudh Handa | Big Data & Model Architect | https://github.com/AnirudhHanda |
+| Harsh Piplodiya | [Role] | https://github.com/Harsh-Piplodiya |
 
 ---
 
@@ -164,4 +164,4 @@ All data used belongs to **RedBus** and the respective hackathon organizers.
 ---
 
 **Team:** Bada Data Wizards  
-**Last Updated:** [Current Date]
+**Last Updated:** ![Last Updated](https://img.shields.io/github/last-commit/AnirudhHanda/redbus_data_decode)
