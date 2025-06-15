@@ -4,12 +4,12 @@
   <table>
     <tr>
       <td align="center">
-        <img src="./assets/hackathon-banner.png" alt="Hackathon Banner" width="400"/>
+        <img src="./assets/hackathon-banner2.png" alt="Hackathon Banner" width="400"/>
         <br/>
         <strong>Redbus Data Decode Hackathon 2025</strong>
       </td>
       <td align="center">
-        <img src="./assets/team-avatar.jpg" alt="Bada Data Wizards Team" width="400"/>
+        <img src="./assets/team-avatar.png" alt="Bada Data Wizards Team" width="400"/>
         <br/>
         <strong>Bada Data Wizards</strong>
       </td>
