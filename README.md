@@ -1,7 +1,21 @@
 # redBus Demand Forecasting - Redbus Data Decode Hackathon 2025
 
-<!-- Add hackathon banner image here -->
-![Hackathon Banner](./assets/hackathon-banner.png)
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="./assets/hackathon-banner.png" alt="Hackathon Banner" width="400"/>
+        <br/>
+        <strong>Redbus Data Decode Hackathon 2025</strong>
+      </td>
+      <td align="center">
+        <img src="./assets/team-avatar.jpg" alt="Bada Data Wizards Team" width="400"/>
+        <br/>
+        <strong>Bada Data Wizards</strong>
+      </td>
+    </tr>
+  </table>
+</div>
 
 Welcome to our official project repository for the **Redbus Data Decode Hackathon 2025**, where we, the **Bada Data Wizards**, aim to solve a real-world demand forecasting challenge using big data and machine learning.
 
@@ -121,15 +135,6 @@ We combine traditional transactional forecasting with **region-aware modeling** 
 ---
 
 ## Team Members
-
-<!-- Add team avatar image here -->
-<div align="center">
-  <img src="./assets/team-avatar.png" alt="Bada Data Wizards Team" width="400"/>
-  <br/>
-  <strong>Bada Data Wizards</strong>
-</div>
-
-<br/>
 
 <!-- Add your team members here -->
 | Name | Role | Contact |
